@@ -4,6 +4,5 @@ def factorial(n):
         result *= i
     return result
 
-# calling the function
 num = int(input("ENter the your number = "));
 print("Factorial of", num, "is:", factorial(num))
